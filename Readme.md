@@ -6,6 +6,9 @@
 
 このリポジトリは、インターネット黎明期の個人ホームページ文化を再現するために作られました。当時の特徴的な要素を忠実に再現し、Netscape 4.7 と IE5 で動作することを前提としています。
 
+[ちょまど](https://x.com/chomado) さんの [#意識低い AICoding チュートリアル #01 インターネット老人会のサイトを作ろう](https://qiita.com/chomado/items/acaf251a2f6bf984a3df) の記事で作られたような、古の個人サイトを大量生産できるように、
+[custom instructions](https://docs.github.com/ja/enterprise-cloud@latest/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot) を使ってテンプレート化しました。（誰得？）
+
 ### 🎨 再現される要素
 
 - **テーブルレイアウト**: `<div>` を使わず、`<table>` の多重入れ子で構築
