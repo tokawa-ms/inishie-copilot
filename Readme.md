@@ -1,6 +1,6 @@
 # 🌟 古の個人サイト テンプレート 🌟
 
-> 1998 ～ 2003 年頃の懐かしい「個人ホームページ」を再現するテンプレートリポジトリです
+> 1998 ～ 2003 年頃の懐かしい「個人ホームページ」を GitHub Copilot Agent Mode / GitHub Copilot Coding Agent を使って再現するためのテンプレートリポジトリです
 
 ## 📝 概要
 
@@ -150,9 +150,8 @@ MIT License
 
 ## 🔗 関連リンク
 
-- [個人ホームページの歴史](https://example.com)
-- [当時の Web デザイン資料](https://example.com)
 - [GitHub Copilot 公式ドキュメント](https://docs.github.com/copilot)
+- [GitHub Copilot のリポジトリ カスタム命令を追加する](https://docs.github.com/ja/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot)
 - [#意識低い AICoding チュートリアル #01 インターネット老人会のサイトを作ろう [GitHub Copilot Agent mode 版]](https://qiita.com/chomado/items/acaf251a2f6bf984a3df)
 
 ---
